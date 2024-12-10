@@ -1,0 +1,17 @@
+cd / 
+ls -> to go into root
+
+cd /bin -> bin -stands for binary.s. 
+Binary is a file which contains the compiled source code. 
+We can also call it as executable, because it can be executed on the computer. 
+/bin is a sub-directory of the root directory in Unix/Linux OS. 
+this directory contains basic commands which is enough for the minimal system function 
+ex :-ls, cat, cp 
+
+cd /sbin-> /sbin: system binaries or super user binaries. 
+This folder contains commands which are required for changing system properties. 
+Ex:-adduser,reboot,shutdown0 
+
+cd.. -> to go out of root
+
+for creating a command in root->use sudo to create a file in root
