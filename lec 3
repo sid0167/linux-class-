@@ -9,4 +9,6 @@ date +%t-> see date in time format
 put . front of a file to create a hidden file
 cat >filename-> used to create a file using cat command
 cat filename->read all the text in a file.
+cat >>filename-> to append the file
+mv .hidden1.txt hidden1.txt->convert hidden file to normal file.
 
