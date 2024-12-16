@@ -4,3 +4,9 @@ mkdir dir/dir1/dir2->for multiple directory
 mkdir folder{1..10}-> create folder 1 to 10.
 rmdir folder{1..10}->remove folder created from 1 to 10
 cat filename-> used to read contents in a file
+date +%D-> see date in mm/dd/yy format
+date +%t-> see date in time format
+put . front of a file to create a hidden file
+cat >filename-> used to create a file using cat command
+cat filename->read all the text in a file.
+
