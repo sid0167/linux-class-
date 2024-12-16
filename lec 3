@@ -3,3 +3,4 @@ mkdir dir-> for single directory
 mkdir dir/dir1/dir2->for multiple directory 
 mkdir folder{1..10}-> create folder 1 to 10.
 rmdir folder{1..10}->remove folder created from 1 to 10
+cat filename-> used to read contents in a file
